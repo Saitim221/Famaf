@@ -1,0 +1,26 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ pingpong 10 & ; pingpong 10 & ; pingpong 20 ; echo DONE
+pinEgR
+ROR: l aE Rc RaOnRt :i dlaad  cma√n°txii dmaad  dme√ °sxpeimmaaf oodreo ss eemsna f5o
+rgo
+s esp i5n
+g
+    pong
+ping
+    pong
+ping
+    pong
+ping
+    pong
+ping
+    pong
+ping
+    pong
+DONEp
+ing$ 
+qemu-system-riscv64: terminating on signal 15 from pid 8210 (make)
